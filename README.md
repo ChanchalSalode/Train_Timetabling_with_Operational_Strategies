@@ -1,6 +1,2 @@
 # Train_Timetabling_with_Operational_Strategies
-Contains all datasets, parameters, and Python scripts required to reproduce the experimental results from our metro timetable optimization paper. Includes network topology, static and time-dependent OD matrices, demand profiles, and a reproducibility script for Table 7 (Row 1).
-
-Reproducibility materials for metro timetabling and demand simulation study.
-Includes network data, static and time-dependent OD generation, station profiles (30-50-20), parameters, and a reproducibility script for Table 7 (Row 1).
-
+This repository contains the supplementary materials for our paper “Train timetabling with rolling stock assignment, short-turning and skip-stop strategy for a bidirectional metro line.” It includes the datasets, model parameters, and Python scripts required to reproduce the main computational results. In particular, we provide the network topology, static OD matrices, and simulated time-dependent OD demand based on the 30–50–20 station demand profile, along with all key parameters (e.g., h_{min}, h_{max}, C, κ, s_k, station profiles ϕ_i[u], and OD shares). The repository also includes a README explaining the data and simulation setup, as well as a reproducibility script to regenerate Table 7 (Row 1). 
