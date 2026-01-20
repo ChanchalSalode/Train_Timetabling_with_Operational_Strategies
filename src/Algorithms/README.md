@@ -1,4 +1,4 @@
-This folder contains reference implementations of the main methods used in our paper:"Train timetabling with rolling stock assignment, short-turning and skip-stop strategy for a bidirectional metro line."
+This folder contains reference implementations of the main methods used in our paper:"_Train timetabling with rolling stock assignment, short-turning and skip-stop strategy for a bidirectional metro line._"
 
 The scripts in this folder are provided to give a clear overview of how the proposed algorithms are implemented.
 
