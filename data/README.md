@@ -1,1 +1,1 @@
-The datasets used in our computational experiments are based on the data provided in the 2023 INFORMS RAS Problem Solving Competition.
+The datasets used in our computational experiments are based on the data provided in the 2023 INFORMS RAS Problem Solving Competition. The simulated station temporal demand profile (30–50–20) and its supporting discussion linked to existing literature are provided in the Station Profile Data (Simulated) folder.
