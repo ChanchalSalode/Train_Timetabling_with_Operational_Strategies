@@ -4,6 +4,6 @@ The scripts in this folder are provided to give a clear overview of how the prop
 
 ## Folder Structure
 - `Algorithms/` Contains implementations of the solution approaches used in the paper, including:
-  - Classical epsilon-constraint method (baseline)
-  - Hybrid epsilon-constraint Logic-Based Benders Decomposition (Hybrid e-LBBD)
+  - Classical epsilon-Constraint method (baseline)
+  - Hybrid epsilon-Constraint Logic-Based Benders Decomposition (Hybrid e-LBBD)
   - Queue-Integrated Fixed-Point Optimization (QFPO)
