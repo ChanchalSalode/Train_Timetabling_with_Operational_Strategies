@@ -1,0 +1,17 @@
+stop_id,stop_name,stop_sequence
+S01,Station 1,1
+S02,Station 2,2
+S03,Station 3,3
+S04,Station 4,4
+S05,Station 5,5
+S06,Station 6,6
+S07,Station 7,7
+S08,Station 8,8
+S09,Station 9,9
+S10,Station 10,10
+S11,Station 11,11
+S12,Station 12,12
+S13,Station 13,13
+S14,Station 14,14
+S15,Station 15,15
+S16,Station 16,16
